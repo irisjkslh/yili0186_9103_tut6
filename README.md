@@ -14,7 +14,7 @@
 
 
 
-[Code on an example of pixel image](p5Project/sketch.js)
+[Code on an example of pixel image](https://happycoding.io/tutorials/p5js/images/pixel-sorter)
 ![An image of example pixel coding](Pixel.png)
 
 ```js
